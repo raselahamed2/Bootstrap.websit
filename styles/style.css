@@ -1,0 +1,14 @@
+.text{
+    color: #231D4F;
+}
+.ancor{
+   background-color: #fddbf0 ;
+   text-decoration: none;
+}
+.text-secondary{
+    font-size: 20px;
+    font-weight: 300;
+}
+.bg-body{
+    background-color: blue;
+}
